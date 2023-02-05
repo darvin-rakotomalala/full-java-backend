@@ -5,7 +5,7 @@ Dans ce repo, nous allons voir quelques points pour devenir un Développeur(euse
 	- Introduction de base sur Java et ses fonctionnalités et plus encore à propos de JDK, JVM et JRE
 	- Principes fondamentaux du langage (types de données, variables, instructions de contrôle et conditionnelles, lecture d'entrée et sortie de base)
 	- 4 Piliers de OOPS en détails (Classe et Objet, Encapsulation, Polymorphisme, Héritage)
-	- Gestion des exceptions (Try, Catch, Final et Enfin, Finalize) et génériques
+	- Gestion des exceptions (Try, Catch, Final, Finalize) et génériques
 	- Object Class en détail
 	- String vs StringBuffer vs StringBuilder en détail
 	- Multithreading (Création, Deadlock, verrous et moniteurs, Sync et Async, Concurrency Concepts, Java 8 Concurrency API)
