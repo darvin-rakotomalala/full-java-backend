@@ -2,7 +2,7 @@
 Dans ce repo, nous allons voir quelques points pour devenir un Développeur(euse) Java Backend complet.
 
 - **Master Core Java "en profondeur"**
-	- Introduction de base sur Java et ses fonctionnalités et plus encore À propos de JDK, JVM et JRE
+	- Introduction de base sur Java et ses fonctionnalités et plus encore à propos de JDK, JVM et JRE
 	- Principes fondamentaux du langage (types de données, variables, instructions de contrôle et conditionnelles, lecture d'entrée et sortie de base)
 	- 4 Piliers de OOPS en détails (Classe et Objet, Encapsulation, Polymorphisme, Héritage)
 	- Gestion des exceptions (Try, Catch, Final et Enfin, Finalize) et génériques
