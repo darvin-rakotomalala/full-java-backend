@@ -38,14 +38,13 @@ Spring en soi est un vaste domaine, nous essaieons de voir les modules qui sont 
 	- Spring Core (injection de dépendance et conteneur, Scope, Configurations etc)
 	- Data Associations (one to one, one to many, many to one et many to many)
 	- Spring MVC et Spring Data, Spring ORM — Hibernate, SQL Database
-	- Spring Context and Spring AOP
+	- Spring Context et Spring AOP
 	- Spring Boot
 	- Spring Security(Authentication et Authorization, OAuth2 et JWT)
-	- Logging and Debugging
+	- Logging et Debugging
 	- Spring cloud, Discovery Service, Circuit breaker etc
 	- Messaging Service (RabbiMQ, Kafka — Avro-Schema)
 	- Swagger API Documentation
-	- Projet pratique perso
+	- Pratique projet perso
 	
 **Tous ça on ne maîtrise pas en un jour - la cohérence et la pratique sont la clé ici**
-
